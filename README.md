@@ -38,7 +38,7 @@ This is a simple password cracking tool that checks a given hash against a wordl
 
 By default, the script uses:  
 ```
-/home/xexhausted/Documents/SecLists/rockyou.txt
+path_to_your_wordlist
 ```
 You can change this path in the script.  
 
