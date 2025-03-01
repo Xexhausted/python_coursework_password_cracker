@@ -56,5 +56,5 @@ def crack_hash(hash_to_crack, wordlist_file):
 # Example Usage:
 if __name__ == "__main__":
     hash_to_crack = input("Enter the hash to crack: ").strip()
-    wordlist_file = "/home/xexhausted/Documents/SecLists/rockyou.txt"
+    wordlist_file = "path_to_your_wordlist"
     crack_hash(hash_to_crack, wordlist_file)
